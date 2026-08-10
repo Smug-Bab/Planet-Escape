@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+mods/** filter=lfs diff=lfs merge=lfs -text
+kubejs/** filter=lfs diff=lfs merge=lfs -text
+config/** filter=lfs diff=lfs merge=lfs -text
