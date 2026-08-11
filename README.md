@@ -2,14 +2,16 @@ Welcome to Planet Escape, a extraordinarily grueling, deeply meticulous, and nee
 
 As the nights progress, the land shall change way for its new host. The foundational backbone of your survival relies on the intricate mechanics introduced by Create, its heavy diesel-industrial expansion The Factory Must Grow (TFMG), and aerial framework of Create: Aeronautics. Rather than casually placing blocks, you must understand dynamica of gear-ratioing, elementary physics, and common household reactions. Establishing a stable supply chain requires numerous farms just to manufacture a common item in today's world.
 
+Core changes you may want to consider:
+Crafting_Table - Can only develop wood and stone items
+Anvil - Can only develop metal items
+Blowpipe - Can only develop glassitems (no change)
+Scribing - Can only develop wood and stone items
+Sewing - Can only develop paper-like items
+Weaving - Can only develop fabric-like items, if the product is flexieble and fibourous, you can sew it.
 
 
-
-
-Core Loop:
-  Pick up stones and bash stones to create more stones. With said stones you create bigger fancier stones. You shoot stones out of a stone into outer stoneland and find the source of the evil slop-like stones. Craft some upgrades and kill them off.
-
-Plan of Modpack:
+Chain of Modpack:
 Base => TFC
 TFC => Create
 Create => TFMG
