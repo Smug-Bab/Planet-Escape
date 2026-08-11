@@ -18,13 +18,10 @@ Cosmonautics/Rocketnautics => Spore
 Spore => END
 
 
-And techincally, this should be treated more as a sandbox rather than a story lol (no shit, it's minecraft)
-I would hold off at create if you wish to stick to Earth, otherwise go planetary.
-
-
 Just be careful of those in the dark...
 
-Extras: Spore as of right now has NO integration other than being a nuisence, you CANNOT craft anything. In the future, when Mr. Sculkhorde updates to 1.21.1 neoforge, I will be able to implement nuclear-like machinery.
+Extras: Spore as of right now has NO integration other than being a nuisence, you CANNOT craft anything. In the future, when Mr. Sculkhorde updates to 1.21.1 neoforge, I will be able to implement nuclear-like machinery and replace spore. for now enjoy mate's music.
+
 
 🚧 TFC Book Integration: I plan on adding segments, those being WORLD, TFC, CREATE, THE FACTORY MUST GROW, AERONAUTICS. I also plan on making journals you may find in the world.
 WORLD 🚧
@@ -32,7 +29,7 @@ TFC 🚧
 CREATE
 FACTORY
 AERONAUTICS
-🚧 Recipes: TFC is mostly the same. Player lacks the ability to craft ANY varient of block. You MUST use the chisel/hammer. Create is currently being worked on.
+🚧 Recipes: TFC is mostly the same.
 TFC ✅
 CREATE 🚧
 FACTORY
