@@ -4,3 +4,4 @@
 !/kubejs/
 !/config/
 !.gitignore
+!options.txt
